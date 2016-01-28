@@ -8,5 +8,5 @@ Homework For Week 1
 - [puzzle-4.js](https://github.com/Ying7930/Programming-and-Electronnic/blob/master/puzzle-4.js)
 - [puzzle-5.js](https://github.com/Ying7930/Programming-and-Electronnic/blob/master/puzzle-5.js)
 - [puzzle-6.js](https://github.com/Ying7930/Programming-and-Electronnic/blob/master/puzzle-6.js)
-- [puzzle-7.js]()
+- [puzzle-7.js](https://github.com/Ying7930/Programming-and-Electronnic/blob/master/puzzle-7.js)
 - [puzzle-8.js]()
