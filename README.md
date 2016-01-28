@@ -10,4 +10,4 @@ Homework For Week 1
 - [puzzle-6.js](https://github.com/Ying7930/Programming-and-Electronnic/blob/master/puzzle-6.js)
 - [puzzle-7.js](https://github.com/Ying7930/Programming-and-Electronnic/blob/master/puzzle-7.js)
 - [puzzle-7/1.js](https://github.com/Ying7930/Programming-and-Electronnic/blob/master/puzzle-7_1.js)
-- [puzzle-8.js](https://github.com/Ying7930/Programming-and-Electronnic/blob/master/puzzle-8_1.js) Failed on using while loop.
+- [puzzle-8.js](https://github.com/Ying7930/Programming-and-Electronnic/blob/master/puzzle-8.js)
