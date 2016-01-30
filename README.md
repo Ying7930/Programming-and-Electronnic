@@ -1,4 +1,4 @@
-# Programming-and-Electronnic
+# P&E H/W 1
 CCA Sprint 2016_Ying-Shyuan Wu
 
 Homework For Week 1
