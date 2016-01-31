@@ -25,9 +25,31 @@ function repeatRight(total) {
     count = count + 1;
   }
 }
-repeatDown(5);
-repeatRight(2);
-setColor("yellow");
+repeatDown(2);
+if (getColor() == "blue") {
+  repeatDown(3);
+  repeatRight(2);
+  setColor("blue");
+} else {
+  if (getColor() == "red") {
+  repeatDown(3);
+  repeatRight(2);
+  setColor("red");
+  } else {
+    if (getColor() == "yellow") {
+      repeatDown(3);
+      repeatRight(2);
+      setColor("yellow");
+    } else {
+      if (getColor() == "green") {
+        repeatDown(3);
+        repeatRight(2);
+        setColor("green");
+      }
+    }
+  }
+}
+
 right();
 right();
 up();
