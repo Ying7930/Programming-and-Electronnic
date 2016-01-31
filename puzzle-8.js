@@ -26,7 +26,7 @@ function repeatUp(total) {
   }
 }
 down();
-while (getColor() != "blue") {
+while ((getColor() != "blue") && (remainingDots() > "0")) {
   repeatDown(7);
   right();
   right();
