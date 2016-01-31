@@ -25,10 +25,48 @@ function repeatRight(total) {
     count = count + 1;
   }
 }
-repeatDown(5);
+repeatDown(4);
 right();
-setColor("blue");
-repeatRight(3);
-setColor("green");
+if (getColor() == "blue") {
+	down();
+  setColor("blue");
+} else {
+  if (getColor() == "green") {
+	  down();
+ 	  setColor("green");
+	} else {
+    if (getColor() == "red") {
+      down();
+      setColor("red");
+    } else {
+      if (getColor() == "yellow") {
+        down();
+        setColor("yellow");
+      }
+    }
+  }
+}
+repeatRight(2);
+up();
+right();
+if (getColor() == "blue") {
+	down();
+  setColor("blue");
+} else {
+  if (getColor() == "green") {
+	  down();
+ 	  setColor("green");
+	} else {
+    if (getColor() == "red") {
+      down();
+      setColor("red");
+    } else {
+      if (getColor() == "yellow") {
+        down();
+        setColor("yellow");
+      }
+    }
+  }
+}
 right();
 right();
